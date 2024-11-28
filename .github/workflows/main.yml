@@ -3,7 +3,7 @@ name: Conditional, Sharing and Matrix Workflow Example
 on:
   push:
     branches:
-      - m먀ㅜ
+      -main
 
 jobs:
   build:
